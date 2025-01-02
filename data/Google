@@ -581,6 +581,7 @@ hey.boo
 iam.soy
 new.day
 xn--p8j9a0d9c9a.xn--q9jyb4c
+pki.goog
 full:firebase.google.com
 full:firebase.googleapis.com
 full:firebaseappcheck.googleapis.com
@@ -669,4 +670,8 @@ full:scholar.google.si
 full:scholar.google.sk
 full:scholar.googleusercontent.com
 full:scholar.l.google.com
+full:publicca.googleapis.com
+full:preprod-publicca.googleapis.com
+full:clients1.google.com
+full:pki.google.com
 full:google-ohttp-relay-safebrowsing.fastly-edge.com
